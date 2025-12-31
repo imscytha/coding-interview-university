@@ -1,3 +1,9 @@
+<!--
+NOTE: disable linter: not everyone (the author of the repo in this case) is
+100% compliant with markdown standards so don't annoy me pls. thank u :)
+-->
+<!-- markdownlint-disable-file -->
+
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
